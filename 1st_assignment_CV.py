@@ -9,7 +9,7 @@ Created on Tue Feb 23 23:16:14 2021
 # # KU Leuven - Master in Artificial Intelligence
 # # #Computer Vision - 1st assignment
 # # #Name: Evangelia Balini
-# # #Student number: r0830140
+# # #Student number: r-------
 # =============================================================================
 # =============================================================================
 
