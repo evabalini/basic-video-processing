@@ -16,20 +16,20 @@ A link to the video can be found here: https://drive.google.com/file/d/1lYH2NPsu
 
 - Dilation 
 
--Opening 
+- Opening 
 
--Sobel edge detection with different parameters
+- Sobel edge detection with different parameters
 
--Circle detection with Hough Transform
+- Circle detection with Hough Transform
 
--Template Matching 
+- Template Matching 
 
--Grayscale likelihood map, with intensity values proportional to the likelihood that an item (the template) is in that position 
+- Grayscale likelihood map, with intensity values proportional to the likelihood that an item (the template) is in that position 
 
--Unblurring frames
+- Unblurring frames
 
--Detect lines with Hough Transform
+- Detect lines with Hough Transform
 
--Detect Eyes (circle detection with Hough Transform)
+- Detect Eyes (circle detection with Hough Transform)
 
--Track ball based on color
+- Track ball based on color
