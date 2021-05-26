@@ -6,15 +6,15 @@ A link to the video can be found here: https://drive.google.com/file/d/1lYH2NPsu
 
 ## Techniques and transfroms: 
 
--Grayscale 
+- Grayscale 
 
--Grabbing color in RGB color space
+- Grabbing color in RGB color space
 
--Grabbing color in HSV color space
+- Grabbing color in HSV color space
 
--Gaussian and bilateral filtering with different kernels
+- Gaussian and bilateral filtering with different kernels
 
--Dilation 
+- Dilation 
 
 -Opening 
 
