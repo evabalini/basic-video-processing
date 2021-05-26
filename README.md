@@ -4,12 +4,17 @@ This is the code for an assignment for the course of Computer Vision.
 Various processing techniques were applied to a video. 
 A link to the video can be found here: https://drive.google.com/file/d/1lYH2NPsuotl1S5miZXAQzNx1_j688Gss/view?usp=sharing
 
-###Techniques and transfroms: 
+##Techniques and transfroms: 
 -Grayscale 
+
 -Grabbing color in RGB color space
+
 -Grabbing color in HSV color space
+
 -Gaussian and bilateral filtering with different kernels
+
 -Dilation 
+
 -Opening 
 
 -Sobel edge detection with different parameters
